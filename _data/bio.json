@@ -2,14 +2,14 @@
   "basics": {
     "name": "Ryan Li",
     "label": "Student",
-    "picture": "https://ryanli98.github.io/template/images/ryan_li(1).png",
+    "picture": "https://ryanli98.github.io/template/images/ryan_li (1).jpg",
     "email": "ryanli80@hawaii.edu",
     "phone": "808-772-8748",
     "website": "https://ryanli98.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -29,20 +29,30 @@
   },
   "interests": [
     {
-      "name": "internet of things, software engineering, renewable energy, sustainability, machine learning",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "internet of things",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software engineering",
       "keywords": [
+      ]
+    },
+    {
+      "name": "renewable energy",
+      "keywords": [
+      ]
+    }
+    {
+      "name": "machine learning",
+      "keywords":[
+
+      ]
+    }
+    {
+      "name": "sustainability",
+      "keywords":[
+
       ]
     }
   ],
@@ -54,9 +64,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -67,16 +75,16 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "IntelliJ IDEA"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-08-22",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -85,38 +93,49 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Information Technology Services",
+      "position": "Web Application Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-06-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Work on web-facing Identity and Access Management (IAM) projects",
+        "Drive, design and build IAM services that directly or indirectly benefit the entire UH community"
       ]
     }
   ],
-  "volunteer": [
+  "projects": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Ike Wai",
+      "website": "https://www.hawaii.edu/epscor/",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2019-1-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Developer for Programming Team",
+      "highlights": [
+        "Design firmware for sensors and motors on the Raspberry Pi Zero W"
+      ]
+    },
+    {
+      "organization": "University of Hawaii Drone Technologies",
+      "website": "https://me.hawaii.edu/shop/uhdt/",
+      "position": "Software Developer",
+      "startDate": "2018-08-22",
+      "endDate": "2018-12-15",
+      "summary": "Developer for Geo-Tagging team",
+      "highlights": [
+        "Design firmware for geo-location of image",
+        "Maintain and debug firmware in case of bugs"
+      ]
+    },
+    {
+      "organization": "Smart Campus Energy Lab",
+      "website": "http://scel-hawaii.org/",
+      "position": "Software Developer",
+      "startDate": "2017-01-05",
+      "endDate": "2018-12-15",
+      "summary": "Developer for weather sensing project",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
@@ -130,9 +149,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Member, IEEE Student Branch, 2016-Present",
       ]
     }
   ],
