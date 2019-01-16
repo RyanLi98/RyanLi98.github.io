@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ryan Li",
     "label": "Student",
-    "picture": "https://ryanli98.github.io/template/images/ryan_li (1).jpg",
+    "picture": "https://ryanli98.github.io/template/images/ryan_li.jpg",
     "email": "ryanli80@hawaii.edu",
     "phone": "808-772-8748",
     "website": "https://ryanli98.github.io",
@@ -105,7 +105,7 @@
       ]
     }
   ],
-  "projects": [
+  "activities": [
     {
       "organization": "Ike Wai",
       "website": "https://www.hawaii.edu/epscor/",
