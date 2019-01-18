@@ -9,7 +9,7 @@ labels:
   - Sustainability
 ---
 
-<img class="ui tiny left circular floated image" src="../images/hawaii_sunset.jpeg">
+<img class="ui tiny left circular floated image" src="../images/hawaii_sunset.jpg">
 
 
 Living in Hawaii is a dream for many people, and as a kid growing up in Hawaii admiring all the beauty that is around me, I realized that we need to do try our best trying to help preserve not only Hawaii's beauty but our planet's. During high school I volunteered my free-time at our multiple service clubs to help out the community, the service clubs usually had events such as cleaning up and helping others in need. This time spent helping out led me to research other ways I can benefit others around me, with the research it led me into Computer Engineering more specifically embedded systems and IoT. 
