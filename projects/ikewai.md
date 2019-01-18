@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/ikewailogo.jpg
 title: 'Ike Wai
 permalink: projects/ikewai
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,6 @@ labels:
   - Internet of Things
 summary: Securing Hawaii's Future
 ---
+<img class="ui fluid centered rounded image" src="../images/system.jpg">
 
 
-
-``

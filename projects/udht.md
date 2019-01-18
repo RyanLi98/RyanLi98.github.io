@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/DroneTechnologies.png
 title: UH Drone Team
 permalink: projects/udht
 # All dates must be YYYY-MM-DD format!
