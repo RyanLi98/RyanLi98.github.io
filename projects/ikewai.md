@@ -11,9 +11,9 @@ labels:
   - Databases
   - Embedded Systems
   - Internet of Things
-summary: Securing Hawaii's Future
+summary: Securing Hawaii's Future through researching the quality of water throughout the Hawaiian Islands
 ---
-'Ike Wai is a collaborative project between many STEM disciplines to monitor, analyze, and sustain the quality of water throughout the Hawaiian Islands. 'Ike Wai's mission is to secure Hawai'i's future water security through an integratedprogram of research, education, community engagement, and decision support.
+'Ike Wai is a collaborative project between many STEM disciplines to monitor, analyze, and sustain the quality of water throughout the Hawaiian Islands. 'Ike Wai's mission is to secure Hawai'i's future water security through an integrated program of research, education, community engagement, and decision support.
 
 <img class="ui fluid centered rounded image" src="../images/system.jpg">
 
