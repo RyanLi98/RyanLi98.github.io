@@ -24,4 +24,5 @@ After we designed our PCB we noticied that one of the routes weren't connected s
 <img class="ui image" src="../images/rippcb.jpg">
 I personally learned a lot from that semester and I can say the same for my teammates as went through all the struggles together of all those late nights staying in micromouse. I would say critical thinking was a skill that was tested a multitude of times throughout this semester and that drive to pick yourself back up failing to find a problem over and over again as well that dread of seeing your PCB smoking up late at night twice. This project overall gave me technical skills such as working microcontrollers, learning EAGLE, CAD and an introduction to embedded systems. This project also helped strengthened our critical thinking skills as well tested our grit leading to a goal which we set in the beginning to have a mouse that could traverse the maze.
 
+ <img class="ui image" src="../images/mousev2.jpg">
 
