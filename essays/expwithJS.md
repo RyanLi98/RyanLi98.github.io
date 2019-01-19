@@ -8,9 +8,9 @@ labels:
   - Javascript
 ---
 
- <img class="ui medium rounded image" src="../images/js_frameworks.png">
-
 Luckily for me, my current job as a Web Application Developer at the UH ITS building gave me some experience with Javascript. While I am currently writing JUnit tests for code coverage, I have written some code with regards to Javascript, more specifically using AngularJS which is a framework. From my experience so far with Javascript I believe it is THE top language for front-end development as it is very versatile. There are frameworks for everything ranging from the front-end(React, Angular), back-end(Express) mobile development (React Native), and even desktop applications (Electron).
+
+ <img class="ui centered medium rounded image" src="../images/js_frameworks.png">
 
 From a software-engineering perspective, I would say Javascript is one of the more user-friendly languages when compared to C or C++.  It is also quick and easy to pick-up as you do not have to define data types such as ints or floats and since Javascript is run on the client-side you can see results almost instantaneously instead of waiting for a response from the server. 
 
