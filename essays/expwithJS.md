@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
- <img class="ui image" src="../images/js_frameworks.png">
+ <img class="ui medium rounded image" src="../images/js_frameworks.png">
 
 Luckily for me, my current job as a Web Application Developer at the UH ITS building gave me some experience with Javascript. While I am currently writing JUnit tests for code coverage, I have written some code with regards to Javascript, more specifically using AngularJS which is a framework. From my experience so far with Javascript I believe it is THE top language for front-end development as it is very versatile. There are frameworks for everything ranging from the front-end(React, Angular), back-end(Express) mobile development (React Native), and even desktop applications (Electron).
 
