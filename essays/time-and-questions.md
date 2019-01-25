@@ -16,7 +16,7 @@ Time is one of the most valuable things you have and also one of the few things 
 
 ## Not so Smart Questions
  Let’s start with an example of a bad question.
-<img class="ui medium center floated image" src="../images/vbadq.png">
+<img class="ui large center image" src="../images/vbadq.png">
 There are several things wrong with this question.
 0. Title is Ambiguous
 0. You could find a solution to their question online
@@ -26,7 +26,7 @@ All of these things lead to a very bad question being asked. It seems like the p
 
 ## Smart Questions
 Example of a good question
-<img class="ui medium center floated image" src="../images/goodq.png">
+<img class="ui large center image" src="../images/goodq.png">
 Reasons why the question was a “smart” one
 0. The title is specific
 0. They provide context
@@ -36,4 +36,6 @@ Smart questions are often ones that show effort and this shows as the readers wi
 ## Conclusion
 Instead of asking crying for help every time you run into a problem, use the most powerful tool in your asset; your brain. Think critically on why you have that problem and when you finally reached the end and exercised your resources come up with a smart question.
 
+Source: <a href="https://stackoverflow.com/questions/33204198/how-to-write-this-program">Dumb Question</a>
+Source: <a href="https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c">Smart Question</a>
 
