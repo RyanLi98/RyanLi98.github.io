@@ -21,6 +21,6 @@ We are currently developing a water monitoring system called the Downwell Remote
 
 The Sensor team is developing a water-monitoring module that monitors temperature, water flow direction, bio-contaminants, and salinity. Salinity is monitored indirectly using a conductivity sensor made from polymer-based resistors created in the lab. Although the system’s prototype is nearly complete, the students are constantly seeking to improve the current system in both performance and cost using methods like 3D printing to expedite the development of revisions.
 
-Since I have just joined this project this January, I have been assigned to the programming team where I will be creating a database and create scripts to convert data pulled from the DROP module into .json files. I am looking foward to this project as it aligns with my interests in sustainability and learning new techonologies such as creating a database interesting.
+Since I have just joined this project this January, I have been assigned to the programming team where I will be creating a database and write scripts to convert data pulled from the DROP module into .json files. I am looking foward to this project as it aligns with my interests in sustainability and learning new techonologies such as creating a database interesting.
 
 You can learn more about the project from <a href="http://www.hawaii.edu/epscor/ike-wai-project/">this website</a>

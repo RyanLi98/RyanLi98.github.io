@@ -24,9 +24,7 @@ The purpose of VIP UHDT Competition Team is to create an autonomous Unmanned Aer
 I was on the Image Processing team where there are 2 subsystems, image recognition and geo-tagging. Geo-tagging is the assignment of geo-location to an image once the telemetry data from the plane gets relayed to the ground station computer and processed. I will explain the process of our image processing below.
 
 
-After UAV lands, Ground station downloads images stored in the Raspberry Pi. Tensorflow Object detection searches regions of interest in each image for a shape. Tensorflow alphanumeric recognition and OpenCV color recognition filter through false positives to identify target. Final targets are geotagged. Shape, color, and alphanumeric are written into .json file. The .json files and images of targets submitted to judges autonomously via Interoperability system
+After UAV lands, Ground station downloads images stored in the Raspberry Pi. Tensorflow Object detection searches regions of interest in each image for a shape. Tensorflow alphanumeric recognition and OpenCV color recognition filter through false positives to identify target. Final targets are geotagged. Shape, color, and alphanumeric are written into .json file. The .json files and images of targets submitted to judges autonomously via Interoperability system.
 
 
-
-
-
+In this project I learned how crazy it can get to work in a big team, We had almost 20 people on the team and to communicate effectively with all the other teams required a lot of planning. I also learned how machine learning works with image processing. You can find more about this project at <a href=https://me.hawaii.edu/shop/uhdt/>here.</a> 
