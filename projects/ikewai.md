@@ -23,3 +23,4 @@ The Sensor team is developing a water-monitoring module that monitors temperatur
 
 Since I have just joined this project this January, I have been assigned to the programming team where I will be creating a database and create scripts to convert data pulled from the DROP module into .json files. I am looking foward to this project as it aligns with my interests in sustainability and learning new techonologies such as creating a database interesting.
 
+You can learn more about the project from <a href="http://www.hawaii.edu/epscor/ike-wai-project/">this website</a>
