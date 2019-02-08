@@ -6,7 +6,7 @@
     "email": "ryanli80@hawaii.edu",
     "phone": "808-772-8748",
     "website": "https://ryanli98.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Electrical and Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -29,28 +29,28 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "renewable energy",
+      "name": "Renewable Energy",
       "keywords": [
       ]
     },
     {
-      "name": "embedded systems",
+      "name": "Sustainability",
       "keywords":[
 
       ]
     },
     {
-      "name": "sustainability",
+      "name": "Embedded Systems",
       "keywords":[
 
       ]
