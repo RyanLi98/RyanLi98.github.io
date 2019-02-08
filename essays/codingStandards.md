@@ -13,7 +13,7 @@ Often coding standards are viewed as a nuisance due to the fact that even an ind
 
 A project without a standard not only makes it confusing to incoming developers but also developers who have to been on the project already. While I do agree that coding standards can limit a developer's own coding style, once you abide by them not only do you make your own code more readable you also can detect bugs more easily. 
 
-<img class="ui centered large floated image" src="../images/code_quality.png">
+<img class="ui centered large image" src="../images/code_quality.png">
 
 
 # Practice makes Perfect
