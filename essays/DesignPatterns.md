@@ -1,15 +1,12 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Everyday Patterns
 date: 2019-04-27
 labels:
   - Design Patterns
   - Software Engineering
 ---
-A common interview question is “What are design patterns?”, followed by “What design patterns have you used in your own code?”
-Instead, write an essay, perhaps using metaphor or analogy, which by its conclusion has answered these two questions but in a clever, interesting, and informative fashion.
-
 <img class="ui medium right floated rounded image" src="../images/answer.png">
 
 # Design Patterns 
