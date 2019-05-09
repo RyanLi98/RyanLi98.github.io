@@ -25,6 +25,7 @@ I gained a lot of experience with issue driven project management as well as wor
 ## Screenshots
 ### Home Page
 <img class="ui large right floated rounded image" src="../images/HomePage3.png">
+
 ### Vendor Page
 <img class="ui large right floated rounded image" src="../images/RestaurantPage3.png">
 
