@@ -24,10 +24,10 @@ We had three milestones for this project. In the first milestone I created the u
 I gained a lot of experience with issue driven project management as well as working in a team of four while juggling our other classes and projects. We used facebook messenger as a means of contact and planned out what we wanted ahead of time. I gained a lot experience with using Javascript, React, and Meteor to build a web application even though  I was busy with my other classes. 
 ## Screenshots
 ### Home Page
-<img class="ui large right floated rounded image" src="../images/HomePage3.png">
+<img class="ui image" src="../images/HomePage3.png">
 
 
 ### Vendor Page
-<img class="ui large right floated rounded image" src="../images/RestaurantPage3.png">
+<img class="ui image" src="../images/RestaurantPage3.png">
 
 For more information, you can view the our [Boujee Foodie IO Page](https://boujeefoodie.github.io/) and [Source Code](https://github.com/boujeefoodie/boujeefoodie)
