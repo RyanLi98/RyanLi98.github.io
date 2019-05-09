@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/ono-manoa-grindz.jpg
-title: Ono Manoa Grindz
-permalink: projects/ono-manoa-grindz
+image: images/LandingPage3.png
+title: Boujee Foodie
+permalink: projects/boujee-foodie
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
 labels:
