@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: Everyday Patterns
 date: 2019-04-27
 labels:

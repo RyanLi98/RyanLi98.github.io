@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: The Future
 date: 2019-04-17
 labels:

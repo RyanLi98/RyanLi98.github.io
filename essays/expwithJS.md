@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: Language of the Web
 date: 2019-01-19
 labels:
