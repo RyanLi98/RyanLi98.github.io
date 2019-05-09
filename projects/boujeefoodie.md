@@ -26,6 +26,8 @@ I gained a lot of experience with issue driven project management as well as wor
 ### Home Page
 <img class="ui large right floated rounded image" src="../images/HomePage3.png">
 
+
 ### Vendor Page
 <img class="ui large right floated rounded image" src="../images/RestaurantPage3.png">
 
+For more information, you can view the our [Boujee Foodie IO Page](https://boujeefoodie.github.io/) and [Source Code](https://github.com/boujeefoodie/boujeefoodie)
